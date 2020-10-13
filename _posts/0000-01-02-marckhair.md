@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+smthng new
 Use the left arrow to go back!---
 layout: slide
 title: "Welcome to our second slide!"
